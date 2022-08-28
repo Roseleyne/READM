@@ -1,0 +1,3 @@
+# Oi eu sou a Rose Duarte... 
+Sou estudante de Tecnologia da Informação
+Atuo com Analise de Testes
